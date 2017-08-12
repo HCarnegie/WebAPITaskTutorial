@@ -1,4 +1,8 @@
-﻿using System.Reflection;
+﻿//This is the REST service application itself; it is hosted by IIS at runtime(though
+//in development we use IISExpress). This project contains all of the Web API
+//controllers and handlers, the REST routes, connection string (s), and so on.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

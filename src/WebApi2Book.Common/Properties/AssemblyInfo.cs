@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿//Contains “framework-ish” functionality not specific to the API or the database.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

@@ -1,4 +1,10 @@
-﻿using System.Reflection;
+﻿//Contains data-access implementations, as well as your NHibernate mappings.
+//This project is what makes the Data project SQL Server–specific at runtime.
+//As you build up your services application, you should note that no code
+//references any types contained in this project; instead, the code references only
+//the Data project.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

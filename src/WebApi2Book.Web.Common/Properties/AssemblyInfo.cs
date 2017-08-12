@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿//Contains functionality common to web and service applications.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
